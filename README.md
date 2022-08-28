@@ -36,6 +36,16 @@ create file named `.env` in the same directry, and store unique NASDAQ API key, 
 
 ---
 
+## Final Thoughts
+
+Weighting the portfolio more heavily to stocks will not allow the credit union members to retire after only 10 years.
+
+The mean of 30 years plan is 9.43 (943%), while 10 years plan is 3.29 (329%). 
+
+In order to obtain similar (900%) return, the riskier portfolio requires almost same amount of time if I just look at the number.
+
+---
+
 ## Contributors
 
 Yu Takahashi
