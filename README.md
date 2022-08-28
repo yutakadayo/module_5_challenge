@@ -32,7 +32,7 @@ create file named `.env` in the same directry, and store unique NASDAQ API key, 
 
 `ALPACA_API_KEY = "Your Key"`
 
-`ALPACA_SECRET_KEY = "Your Key"
+`ALPACA_SECRET_KEY = "Your Key"`
 
 ---
 
